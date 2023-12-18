@@ -43,4 +43,4 @@ and have a little fun :).
 
 
 ## Demo video
-![](media/demo.mp4)
+![](media/demo.gif)
