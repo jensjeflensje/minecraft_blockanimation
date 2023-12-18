@@ -43,6 +43,4 @@ and have a little fun :).
 
 
 ## Demo video
-<video width="580" height="320" controls>
-  <source src="media/demo.mp4" type="video/mp4">
-</video>
+![](media/demo.mp4)
