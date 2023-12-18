@@ -1,0 +1,4 @@
+name: minecraft-blockanimation
+version: '${project.version}'
+main: dev.jensderuiter.minecraftblockanimation.BlockAnimationPlugin
+api-version: '1.20'
