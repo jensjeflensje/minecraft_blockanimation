@@ -1,4 +1,4 @@
-# Minecraft Hats
+# Minecraft Block Animation
 A Minecraft Spigot plugin to add block placement animations to Minecraft.
 An example of a block placement animation would be:
 the bricks actually being laid when you build a brick block.
